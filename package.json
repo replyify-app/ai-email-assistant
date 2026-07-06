@@ -1,0 +1,26 @@
+{
+  "name": "replyify-app-ai-email-assistant",
+  "version": "1.0.0",
+  "description": "AI Email Assistant drafts and sends personalized email replies automatically using AI",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "ai-email-assistant",
+    "ai",
+    "email",
+    "email-automation",
+    "productivity",
+    "customer-service",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "Replyify",
+  "license": "ISC",
+  "homepage": "https://replyify.app",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/replyify-app/ai-email-assistant.git"
+  }
+}
